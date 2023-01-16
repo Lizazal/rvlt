@@ -1,0 +1,18 @@
+#jsLab{
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    border: 2px solid black;
+    height: 600px;
+    text-align: center;
+    padding-left: 50px;
+    background-color: paleturquoise;
+}
+#header{
+    font-size: 20px;
+    font-weight: bold;
+}
+#tasks{
+    padding-left: 10px;
+}
